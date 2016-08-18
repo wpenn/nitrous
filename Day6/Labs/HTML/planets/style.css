@@ -1,0 +1,32 @@
+h1 {
+  color: red;
+  font-size: 200%
+}
+
+ol {
+  background-color: rgb(138,32,66);
+  color: blue
+  font-size: 600%
+}
+
+#pac{
+  background-color: black;
+  color: red;
+}
+
+#sam {
+  background-color: blue;
+  color: rgb(0,32,66);
+}
+.conspiracies{
+  color: green;
+}
+
+p {
+  font-size: 600%
+  color: green;
+}
+
+body{
+  background-color: white;
+}
